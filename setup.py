@@ -21,7 +21,7 @@ setup(name='nova-network-drivers',
       version='0.1',
       author="HPCS DBaaS",
       author_email="support@hpcloud.com",
-      description='Python Distribution Utilities',
+      description='Additional Drivers for Nova-Network',
       url="www.hpcloud.com",
       packages=['driver'],
       )
